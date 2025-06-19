@@ -1,0 +1,23 @@
+{
+  "name": "demo-github-actions-franco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franco1625/demo-github-actions-franco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franco1625/demo-github-actions-franco/issues"
+  },
+  "homepage": "https://github.com/Franco1625/demo-github-actions-franco#readme"
+}
